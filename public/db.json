@@ -1,0 +1,199 @@
+[
+    {
+        "name": "Kyivska",
+        "obj": [
+            {
+                "name": "2017",
+                "obj": [
+                    {
+                        "name": "XX",
+                        "obj": {
+                            "value": 150000,
+                            "dateRelease": "2017-12-31"
+                        }
+                    },
+                    {
+                        "name": "YY",
+                        "obj": {
+                            "value": 100000,
+                            "dateRelease": "2017-12-31"
+                        }
+                    },
+                    {
+                        "name": "ZZ",
+                        "obj": {
+                            "value": 77,
+                            "dateRelease": "2017-12-31"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "2018",
+                "obj": [
+                    {
+                        "name": "XX",
+                        "obj": {
+                            "value": 160000,
+                            "dateRelease": "2018-12-31"
+                        }
+                    },
+                    {
+                        "name": "YY",
+                        "obj": {
+                            "value": 110000,
+                            "dateRelease": "2018-12-31"
+                        }
+                    },
+                    {
+                        "name": "ZZ",
+                        "obj": {
+                            "value": 72,
+                            "dateRelease": "2018-12-31"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "2019",
+                "obj": [
+                    {
+                        "name": "XX",
+                        "obj": {
+                            "value": 130000,
+                            "dateRelease": "2019-12-31"
+                        }
+                    },
+                    {
+                        "name": "YY",
+                        "obj": {
+                            "value": 85000,
+                            "dateRelease": "2019-12-31"
+                        }
+                    },
+                    {
+                        "name": "ZZ",
+                        "obj": {
+                            "value": 72,
+                            "dateRelease": "2019-12-31"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Odeska",
+        "obj": [
+            {
+                "name": "2017",
+                "obj": [
+                    {
+                        "name": "XX",
+                        "obj": {
+                            "value": 10000,
+                            "dateRelease": "2017-12-31"
+                        }
+                    },
+                    {
+                        "name": "YY",
+                        "obj": {
+                            "value": 5000,
+                            "dateRelease": "2017-12-31"
+                        }
+                    },
+                    {
+                        "name": "ZZ",
+                        "obj": {
+                            "value": 45,
+                            "dateRelease": "2017-12-31"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "2019",
+                "obj": [
+                    {
+                        "name": "XX",
+                        "obj": {
+                            "value": 15000,
+                            "dateRelease": "2019-12-01"
+                        }
+                    },
+                    {
+                        "name": "YY",
+                        "obj": {
+                            "value": 0,
+                            "dateRelease": "2022-02-18"
+                        }
+                    },
+                    {
+                        "name": "ZZ",
+                        "obj": {
+                            "value": 0,
+                            "dateRelease": "2022-02-18"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Lvivska",
+        "obj": [
+            {
+                "name": "2017",
+                "obj": [
+                    {
+                        "name": "XX",
+                        "obj": {
+                            "value": 640000,
+                            "dateRelease": "2017-12-31"
+                        }
+                    },
+                    {
+                        "name": "YY",
+                        "obj": {
+                            "value": 510000,
+                            "dateRelease": "2017-08-01"
+                        }
+                    },
+                    {
+                        "name": "ZZ",
+                        "obj": {
+                            "value": 67,
+                            "dateRelease": "2017-08-01"
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "2018",
+                "obj": [
+                    {
+                        "name": "XX",
+                        "obj": {
+                            "value": 740000,
+                            "dateRelease": "2018-12-31"
+                        }
+                    },
+                    {
+                        "name": "YY",
+                        "obj": {
+                            "value": 530000,
+                            "dateRelease": "2018-08-01"
+                        }
+                    },
+                    {
+                        "name": "ZZ",
+                        "obj": {
+                            "value": 61,
+                            "dateRelease": "2018-08-01"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]
