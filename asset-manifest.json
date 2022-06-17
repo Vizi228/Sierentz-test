@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sierentz-test/static/css/main.642d7ff5.css",
+    "main.js": "/Sierentz-test/static/js/main.261b1029.js",
+    "index.html": "/Sierentz-test/index.html",
+    "main.642d7ff5.css.map": "/Sierentz-test/static/css/main.642d7ff5.css.map",
+    "main.261b1029.js.map": "/Sierentz-test/static/js/main.261b1029.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.642d7ff5.css",
+    "static/js/main.261b1029.js"
+  ]
+}
